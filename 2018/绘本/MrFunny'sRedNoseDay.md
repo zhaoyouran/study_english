@@ -78,6 +78,11 @@ Then they saw a giraffe wearing Wellington boots.
 
 Mr Grumpy still did not smile.
 
+--
+
+giraffe
+[dʒəˈrɑːf]
+
 ---
 
 They even saw a hippopotamus wearing a spotty bow-tie.
@@ -85,6 +90,11 @@ They even saw a hippopotamus wearing a spotty bow-tie.
 The hippopotamus looked pleased with himself.
 
 It was a very funny sight indeed.
+
+--
+
+hippopotamus
+[.hɪpə'pɑtəməs]
 
 ---
 
@@ -130,6 +140,11 @@ This time he returned wearing the largest, most rediculous, quite preposterous r
 "That's ridiculous!" snorted Mr Grumpy.
 
 "I know," giggled Mr Funny.
+
+--
+
+snort
+[snɔrt]
 
 ---
 
